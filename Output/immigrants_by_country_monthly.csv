@@ -18092,7 +18092,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 18090,Honduras,2024,Feb,2,Q1,35
 18091,"Hong Kong SAR, China",2024,Feb,2,Q1,215
 18092,Hungary,2024,Feb,2,Q1,10
-18093,India,2024,Feb,2,Q1,11175
+18093,India,2024,Feb,2,Q1,11180
 18094,Indonesia,2024,Feb,2,Q1,35
 18095,"Iran, Islamic Rep.",2024,Feb,2,Q1,1020
 18096,Iraq,2024,Feb,2,Q1,210
@@ -18216,12 +18216,12 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 18214,Burkina Faso,2024,Jan,1,Q1,30
 18215,Burundi,2024,Jan,1,Q1,70
 18216,Cambodia,2024,Jan,1,Q1,25
-18217,Cameroon,2024,Jan,1,Q1,955
+18217,Cameroon,2024,Jan,1,Q1,960
 18218,Central African Republic,2024,Jan,1,Q1,0
 18219,Chad,2024,Jan,1,Q1,30
 18220,Chile,2024,Jan,1,Q1,105
 18221,China,2024,Jan,1,Q1,3320
-18222,Colombia,2024,Jan,1,Q1,560
+18222,Colombia,2024,Jan,1,Q1,565
 18223,"Congo, Dem. Rep.",2024,Jan,1,Q1,235
 18224,"Congo, Rep.",2024,Jan,1,Q1,20
 18225,Costa Rica,2024,Jan,1,Q1,30
@@ -18256,7 +18256,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 18254,Honduras,2024,Jan,1,Q1,45
 18255,"Hong Kong SAR, China",2024,Jan,1,Q1,565
 18256,Hungary,2024,Jan,1,Q1,35
-18257,India,2024,Jan,1,Q1,16360
+18257,India,2024,Jan,1,Q1,16365
 18258,Indonesia,2024,Jan,1,Q1,75
 18259,"Iran, Islamic Rep.",2024,Jan,1,Q1,1300
 18260,Iraq,2024,Jan,1,Q1,100
@@ -18978,7 +18978,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 18976,Nigeria,2024,May,5,Q2,2040
 18977,Norway,2024,May,5,Q2,10
 18978,Canada,2024,May,5,Q2,0
-18979,Pakistan,2024,May,5,Q2,945
+18979,Pakistan,2024,May,5,Q2,950
 18980,West Bank and Gaza,2024,May,5,Q2,70
 18981,Panama,2024,May,5,Q2,5
 18982,Paraguay,2024,May,5,Q2,5
@@ -19553,17 +19553,17 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19551,Bolivia,2024,Dec,12,Q4,25
 19552,Bosnia and Herzegovina,2024,Dec,12,Q4,5
 19553,Botswana,2024,Dec,12,Q4,0
-19554,Brazil,2024,Dec,12,Q4,300
+19554,Brazil,2024,Dec,12,Q4,305
 19555,Bulgaria,2024,Dec,12,Q4,5
 19556,Burkina Faso,2024,Dec,12,Q4,65
 19557,Burundi,2024,Dec,12,Q4,65
 19558,Cambodia,2024,Dec,12,Q4,25
-19559,Cameroon,2024,Dec,12,Q4,1975
+19559,Cameroon,2024,Dec,12,Q4,1980
 19560,Central African Republic,2024,Dec,12,Q4,40
 19561,Chad,2024,Dec,12,Q4,20
 19562,Chile,2024,Dec,12,Q4,40
-19563,China,2024,Dec,12,Q4,1535
-19564,Colombia,2024,Dec,12,Q4,850
+19563,China,2024,Dec,12,Q4,1540
+19564,Colombia,2024,Dec,12,Q4,860
 19565,"Congo, Dem. Rep.",2024,Dec,12,Q4,530
 19566,"Congo, Rep.",2024,Dec,12,Q4,30
 19567,Costa Rica,2024,Dec,12,Q4,15
@@ -19576,14 +19576,14 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19574,Dominica,2024,Dec,12,Q4,0
 19575,Dominican Republic,2024,Dec,12,Q4,65
 19576,Ecuador,2024,Dec,12,Q4,40
-19577,"Egypt, Arab Rep.",2024,Dec,12,Q4,115
+19577,"Egypt, Arab Rep.",2024,Dec,12,Q4,120
 19578,El Salvador,2024,Dec,12,Q4,70
-19579,Eritrea,2024,Dec,12,Q4,1970
+19579,Eritrea,2024,Dec,12,Q4,1975
 19580,Estonia,2024,Dec,12,Q4,0
 19581,Ethiopia,2024,Dec,12,Q4,635
 19582,Fiji,2024,Dec,12,Q4,10
 19583,Finland,2024,Dec,12,Q4,5
-19584,France,2024,Dec,12,Q4,675
+19584,France,2024,Dec,12,Q4,680
 19585,Gabon,2024,Dec,12,Q4,10
 19586,"Gambia, The",2024,Dec,12,Q4,10
 19587,Georgia,2024,Dec,12,Q4,20
@@ -19594,11 +19594,11 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19592,Guatemala,2024,Dec,12,Q4,20
 19593,Guinea,2024,Dec,12,Q4,40
 19594,Guyana,2024,Dec,12,Q4,35
-19595,Haiti,2024,Dec,12,Q4,480
+19595,Haiti,2024,Dec,12,Q4,485
 19596,Honduras,2024,Dec,12,Q4,30
 19597,"Hong Kong SAR, China",2024,Dec,12,Q4,55
 19598,Hungary,2024,Dec,12,Q4,10
-19599,India,2024,Dec,12,Q4,6470
+19599,India,2024,Dec,12,Q4,6495
 19600,Indonesia,2024,Dec,12,Q4,25
 19601,"Iran, Islamic Rep.",2024,Dec,12,Q4,520
 19602,Iraq,2024,Dec,12,Q4,80
@@ -19642,17 +19642,17 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19640,Nepal,2024,Dec,12,Q4,125
 19641,Netherlands,2024,Dec,12,Q4,20
 19642,New Zealand,2024,Dec,12,Q4,30
-19643,Nicaragua,2024,Dec,12,Q4,20
+19643,Nicaragua,2024,Dec,12,Q4,25
 19644,Niger,2024,Dec,12,Q4,10
-19645,Nigeria,2024,Dec,12,Q4,1480
+19645,Nigeria,2024,Dec,12,Q4,1485
 19646,Norway,2024,Dec,12,Q4,5
 19647,Canada,2024,Dec,12,Q4,0
-19648,Pakistan,2024,Dec,12,Q4,1005
+19648,Pakistan,2024,Dec,12,Q4,1015
 19649,West Bank and Gaza,2024,Dec,12,Q4,40
 19650,Panama,2024,Dec,12,Q4,5
 19651,Paraguay,2024,Dec,12,Q4,15
 19652,Peru,2024,Dec,12,Q4,65
-19653,Philippines,2024,Dec,12,Q4,1680
+19653,Philippines,2024,Dec,12,Q4,1695
 19654,Poland,2024,Dec,12,Q4,25
 19655,Portugal,2024,Dec,12,Q4,40
 19656,Romania,2024,Dec,12,Q4,20
@@ -19667,11 +19667,11 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19665,Slovak Republic,2024,Dec,12,Q4,10
 19666,Slovenia,2024,Dec,12,Q4,0
 19667,Solomon Islands,2024,Dec,12,Q4,0
-19668,Somalia,2024,Dec,12,Q4,725
+19668,Somalia,2024,Dec,12,Q4,735
 19669,South Africa,2024,Dec,12,Q4,85
 19670,South Sudan,2024,Dec,12,Q4,90
 19671,Spain,2024,Dec,12,Q4,40
-19672,Sri Lanka,2024,Dec,12,Q4,240
+19672,Sri Lanka,2024,Dec,12,Q4,245
 19673,Canada,2024,Dec,12,Q4,0
 19674,St. Lucia,2024,Dec,12,Q4,10
 19675,St. Vincent and the Grenadines,2024,Dec,12,Q4,10
@@ -19694,7 +19694,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19692,Ukraine,2024,Dec,12,Q4,150
 19693,United Arab Emirates,2024,Dec,12,Q4,0
 19694,United Kingdom,2024,Dec,12,Q4,280
-19695,United States,2024,Dec,12,Q4,735
+19695,United States,2024,Dec,12,Q4,745
 19696,Uruguay,2024,Dec,12,Q4,0
 19697,Uzbekistan,2024,Dec,12,Q4,25
 19698,"Venezuela, RB",2024,Dec,12,Q4,260
@@ -19735,7 +19735,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19733,Central African Republic,2024,Nov,11,Q4,20
 19734,Chad,2024,Nov,11,Q4,25
 19735,Chile,2024,Nov,11,Q4,75
-19736,China,2024,Nov,11,Q4,2410
+19736,China,2024,Nov,11,Q4,2415
 19737,Colombia,2024,Nov,11,Q4,820
 19738,"Congo, Dem. Rep.",2024,Nov,11,Q4,385
 19739,"Congo, Rep.",2024,Nov,11,Q4,20
@@ -19752,7 +19752,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19750,Ecuador,2024,Nov,11,Q4,60
 19751,"Egypt, Arab Rep.",2024,Nov,11,Q4,140
 19752,El Salvador,2024,Nov,11,Q4,45
-19753,Eritrea,2024,Nov,11,Q4,1590
+19753,Eritrea,2024,Nov,11,Q4,1595
 19754,Ethiopia,2024,Nov,11,Q4,445
 19755,Fiji,2024,Nov,11,Q4,15
 19756,Finland,2024,Nov,11,Q4,0
@@ -19772,7 +19772,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19770,"Hong Kong SAR, China",2024,Nov,11,Q4,65
 19771,Hungary,2024,Nov,11,Q4,35
 19772,Iceland,2024,Nov,11,Q4,0
-19773,India,2024,Nov,11,Q4,8115
+19773,India,2024,Nov,11,Q4,8125
 19774,Indonesia,2024,Nov,11,Q4,25
 19775,"Iran, Islamic Rep.",2024,Nov,11,Q4,725
 19776,Iraq,2024,Nov,11,Q4,75
@@ -19905,7 +19905,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19903,Central African Republic,2024,Oct,10,Q4,40
 19904,Chad,2024,Oct,10,Q4,5
 19905,Chile,2024,Oct,10,Q4,35
-19906,China,2024,Oct,10,Q4,2010
+19906,China,2024,Oct,10,Q4,2015
 19907,Colombia,2024,Oct,10,Q4,700
 19908,"Congo, Dem. Rep.",2024,Oct,10,Q4,450
 19909,"Congo, Rep.",2024,Oct,10,Q4,20
@@ -19925,7 +19925,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19923,Estonia,2024,Oct,10,Q4,0
 19924,Ethiopia,2024,Oct,10,Q4,550
 19925,Fiji,2024,Oct,10,Q4,0
-19926,France,2024,Oct,10,Q4,490
+19926,France,2024,Oct,10,Q4,495
 19927,Gabon,2024,Oct,10,Q4,10
 19928,"Gambia, The",2024,Oct,10,Q4,0
 19929,Georgia,2024,Oct,10,Q4,20
@@ -20007,7 +20007,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 20005,Singapore,2024,Oct,10,Q4,15
 20006,Slovak Republic,2024,Oct,10,Q4,0
 20007,Somalia,2024,Oct,10,Q4,500
-20008,South Africa,2024,Oct,10,Q4,95
+20008,South Africa,2024,Oct,10,Q4,100
 20009,South Sudan,2024,Oct,10,Q4,55
 20010,Spain,2024,Oct,10,Q4,25
 20011,Sri Lanka,2024,Oct,10,Q4,365
@@ -20040,3 +20040,511 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 20038,"Yemen, Rep.",2024,Oct,10,Q4,35
 20039,Zambia,2024,Oct,10,Q4,0
 20040,Zimbabwe,2024,Oct,10,Q4,35
+20041,Afghanistan,2025,Feb,2,Q1,615
+20042,Albania,2025,Feb,2,Q1,35
+20043,Algeria,2025,Feb,2,Q1,370
+20044,Angola,2025,Feb,2,Q1,5
+20045,Antigua and Barbuda,2025,Feb,2,Q1,10
+20046,Argentina,2025,Feb,2,Q1,45
+20047,Armenia,2025,Feb,2,Q1,10
+20048,Australia,2025,Feb,2,Q1,80
+20049,Austria,2025,Feb,2,Q1,10
+20050,Azerbaijan,2025,Feb,2,Q1,15
+20051,"Bahamas, The",2025,Feb,2,Q1,25
+20052,Bangladesh,2025,Feb,2,Q1,315
+20053,Barbados,2025,Feb,2,Q1,15
+20054,Belarus,2025,Feb,2,Q1,25
+20055,Belgium,2025,Feb,2,Q1,30
+20056,Belize,2025,Feb,2,Q1,5
+20057,Benin,2025,Feb,2,Q1,75
+20058,Bhutan,2025,Feb,2,Q1,0
+20059,Bolivia,2025,Feb,2,Q1,15
+20060,Bosnia and Herzegovina,2025,Feb,2,Q1,5
+20061,Botswana,2025,Feb,2,Q1,0
+20062,Brazil,2025,Feb,2,Q1,450
+20063,Bulgaria,2025,Feb,2,Q1,0
+20064,Burkina Faso,2025,Feb,2,Q1,45
+20065,Burundi,2025,Feb,2,Q1,75
+20066,Cambodia,2025,Feb,2,Q1,20
+20067,Cameroon,2025,Feb,2,Q1,1785
+20068,Central African Republic,2025,Feb,2,Q1,30
+20069,Chad,2025,Feb,2,Q1,15
+20070,Chile,2025,Feb,2,Q1,75
+20071,China,2025,Feb,2,Q1,2105
+20072,Colombia,2025,Feb,2,Q1,775
+20073,Comoros,2025,Feb,2,Q1,5
+20074,"Congo, Dem. Rep.",2025,Feb,2,Q1,335
+20075,"Congo, Rep.",2025,Feb,2,Q1,20
+20076,Costa Rica,2025,Feb,2,Q1,15
+20077,Croatia,2025,Feb,2,Q1,5
+20078,Cuba,2025,Feb,2,Q1,90
+20079,Cyprus,2025,Feb,2,Q1,0
+20080,Czechia,2025,Feb,2,Q1,15
+20081,Denmark,2025,Feb,2,Q1,0
+20082,Djibouti,2025,Feb,2,Q1,10
+20083,Dominica,2025,Feb,2,Q1,0
+20084,Dominican Republic,2025,Feb,2,Q1,70
+20085,Ecuador,2025,Feb,2,Q1,65
+20086,"Egypt, Arab Rep.",2025,Feb,2,Q1,135
+20087,El Salvador,2025,Feb,2,Q1,30
+20088,Eritrea,2025,Feb,2,Q1,910
+20089,Ethiopia,2025,Feb,2,Q1,445
+20090,Fiji,2025,Feb,2,Q1,0
+20091,Finland,2025,Feb,2,Q1,10
+20092,France,2025,Feb,2,Q1,540
+20093,Gabon,2025,Feb,2,Q1,0
+20094,"Gambia, The",2025,Feb,2,Q1,10
+20095,Georgia,2025,Feb,2,Q1,15
+20096,Germany,2025,Feb,2,Q1,65
+20097,Ghana,2025,Feb,2,Q1,140
+20098,Greece,2025,Feb,2,Q1,15
+20099,Grenada,2025,Feb,2,Q1,5
+20100,Guatemala,2025,Feb,2,Q1,20
+20101,Guinea,2025,Feb,2,Q1,40
+20102,Guyana,2025,Feb,2,Q1,20
+20103,Haiti,2025,Feb,2,Q1,450
+20104,Honduras,2025,Feb,2,Q1,45
+20105,"Hong Kong SAR, China",2025,Feb,2,Q1,50
+20106,Hungary,2025,Feb,2,Q1,25
+20107,India,2025,Feb,2,Q1,10905
+20108,Indonesia,2025,Feb,2,Q1,45
+20109,"Iran, Islamic Rep.",2025,Feb,2,Q1,625
+20110,Iraq,2025,Feb,2,Q1,85
+20111,Ireland,2025,Feb,2,Q1,125
+20112,Israel,2025,Feb,2,Q1,50
+20113,Italy,2025,Feb,2,Q1,40
+20114,Cote d'Ivoire,2025,Feb,2,Q1,190
+20115,Jamaica,2025,Feb,2,Q1,265
+20116,Japan,2025,Feb,2,Q1,65
+20117,Jordan,2025,Feb,2,Q1,75
+20118,Kazakhstan,2025,Feb,2,Q1,20
+20119,Kenya,2025,Feb,2,Q1,85
+20120,"Korea, Rep.",2025,Feb,2,Q1,305
+20121,Kosovo,2025,Feb,2,Q1,20
+20122,Kyrgyz Republic,2025,Feb,2,Q1,10
+20123,Lao PDR,2025,Feb,2,Q1,0
+20124,Lebanon,2025,Feb,2,Q1,140
+20125,Lesotho,2025,Feb,2,Q1,0
+20126,Liberia,2025,Feb,2,Q1,10
+20127,Libya,2025,Feb,2,Q1,50
+20128,Lithuania,2025,Feb,2,Q1,0
+20129,Luxembourg,2025,Feb,2,Q1,0
+20130,"Macao SAR, China",2025,Feb,2,Q1,0
+20131,North Macedonia,2025,Feb,2,Q1,5
+20132,Madagascar,2025,Feb,2,Q1,50
+20133,Malawi,2025,Feb,2,Q1,5
+20134,Malaysia,2025,Feb,2,Q1,25
+20135,Mali,2025,Feb,2,Q1,20
+20136,Mauritania,2025,Feb,2,Q1,5
+20137,Mauritius,2025,Feb,2,Q1,130
+20138,Mexico,2025,Feb,2,Q1,500
+20139,Moldova,2025,Feb,2,Q1,15
+20140,Mongolia,2025,Feb,2,Q1,10
+20141,Montenegro,2025,Feb,2,Q1,0
+20142,Morocco,2025,Feb,2,Q1,425
+20143,Myanmar,2025,Feb,2,Q1,15
+20144,Nepal,2025,Feb,2,Q1,200
+20145,Netherlands,2025,Feb,2,Q1,25
+20146,New Zealand,2025,Feb,2,Q1,30
+20147,Nicaragua,2025,Feb,2,Q1,15
+20148,Niger,2025,Feb,2,Q1,15
+20149,Nigeria,2025,Feb,2,Q1,1565
+20150,Northern Mariana Islands,2025,Feb,2,Q1,0
+20151,Norway,2025,Feb,2,Q1,5
+20152,Pakistan,2025,Feb,2,Q1,795
+20153,West Bank and Gaza,2025,Feb,2,Q1,20
+20154,Panama,2025,Feb,2,Q1,0
+20155,Paraguay,2025,Feb,2,Q1,10
+20156,Peru,2025,Feb,2,Q1,60
+20157,Philippines,2025,Feb,2,Q1,2325
+20158,Poland,2025,Feb,2,Q1,35
+20159,Portugal,2025,Feb,2,Q1,50
+20160,Qatar,2025,Feb,2,Q1,0
+20161,Romania,2025,Feb,2,Q1,15
+20162,Russian Federation,2025,Feb,2,Q1,145
+20163,Rwanda,2025,Feb,2,Q1,70
+20164,Saudi Arabia,2025,Feb,2,Q1,5
+20165,Senegal,2025,Feb,2,Q1,65
+20166,Serbia,2025,Feb,2,Q1,20
+20167,Seychelles,2025,Feb,2,Q1,5
+20168,Sierra Leone,2025,Feb,2,Q1,5
+20169,Singapore,2025,Feb,2,Q1,20
+20170,Slovak Republic,2025,Feb,2,Q1,10
+20171,Slovenia,2025,Feb,2,Q1,0
+20172,Solomon Islands,2025,Feb,2,Q1,0
+20173,Somalia,2025,Feb,2,Q1,475
+20174,South Africa,2025,Feb,2,Q1,115
+20175,South Sudan,2025,Feb,2,Q1,55
+20176,Spain,2025,Feb,2,Q1,35
+20177,Sri Lanka,2025,Feb,2,Q1,290
+20178,Canada,2025,Feb,2,Q1,0
+20179,St. Lucia,2025,Feb,2,Q1,10
+20180,St. Vincent and the Grenadines,2025,Feb,2,Q1,10
+20181,Canada,2025,Feb,2,Q1,90
+20182,Sudan,2025,Feb,2,Q1,295
+20183,Suriname,2025,Feb,2,Q1,0
+20184,Sweden,2025,Feb,2,Q1,15
+20185,Switzerland,2025,Feb,2,Q1,10
+20186,Syrian Arab Republic,2025,Feb,2,Q1,205
+20187,China,2025,Feb,2,Q1,80
+20188,Tanzania,2025,Feb,2,Q1,20
+20189,Thailand,2025,Feb,2,Q1,40
+20190,Togo,2025,Feb,2,Q1,60
+20191,Trinidad and Tobago,2025,Feb,2,Q1,35
+20192,Tunisia,2025,Feb,2,Q1,255
+20193,Turkiye,2025,Feb,2,Q1,115
+20194,Uganda,2025,Feb,2,Q1,70
+20195,Ukraine,2025,Feb,2,Q1,855
+20196,United Arab Emirates,2025,Feb,2,Q1,0
+20197,United Kingdom,2025,Feb,2,Q1,315
+20198,United States,2025,Feb,2,Q1,635
+20199,Uruguay,2025,Feb,2,Q1,0
+20200,Uzbekistan,2025,Feb,2,Q1,5
+20201,"Venezuela, RB",2025,Feb,2,Q1,125
+20202,Viet Nam,2025,Feb,2,Q1,405
+20203,"Yemen, Rep.",2025,Feb,2,Q1,30
+20204,Zambia,2025,Feb,2,Q1,0
+20205,Zimbabwe,2025,Feb,2,Q1,55
+20206,Afghanistan,2025,Jan,1,Q1,495
+20207,Albania,2025,Jan,1,Q1,50
+20208,Algeria,2025,Jan,1,Q1,330
+20209,Andorra,2025,Jan,1,Q1,0
+20210,Angola,2025,Jan,1,Q1,15
+20211,Antigua and Barbuda,2025,Jan,1,Q1,0
+20212,Argentina,2025,Jan,1,Q1,35
+20213,Armenia,2025,Jan,1,Q1,15
+20214,Australia,2025,Jan,1,Q1,50
+20215,Austria,2025,Jan,1,Q1,0
+20216,Azerbaijan,2025,Jan,1,Q1,0
+20217,"Bahamas, The",2025,Jan,1,Q1,30
+20218,Bahrain,2025,Jan,1,Q1,0
+20219,Bangladesh,2025,Jan,1,Q1,340
+20220,Barbados,2025,Jan,1,Q1,15
+20221,Belarus,2025,Jan,1,Q1,25
+20222,Belgium,2025,Jan,1,Q1,40
+20223,Belize,2025,Jan,1,Q1,5
+20224,Benin,2025,Jan,1,Q1,40
+20225,Bhutan,2025,Jan,1,Q1,0
+20226,Bolivia,2025,Jan,1,Q1,10
+20227,Bosnia and Herzegovina,2025,Jan,1,Q1,0
+20228,Botswana,2025,Jan,1,Q1,0
+20229,Brazil,2025,Jan,1,Q1,440
+20230,Brunei Darussalam,2025,Jan,1,Q1,0
+20231,Bulgaria,2025,Jan,1,Q1,5
+20232,Burkina Faso,2025,Jan,1,Q1,25
+20233,Burundi,2025,Jan,1,Q1,70
+20234,Cambodia,2025,Jan,1,Q1,0
+20235,Cameroon,2025,Jan,1,Q1,1070
+20236,Central African Republic,2025,Jan,1,Q1,20
+20237,Chad,2025,Jan,1,Q1,25
+20238,Chile,2025,Jan,1,Q1,120
+20239,China,2025,Jan,1,Q1,2440
+20240,Colombia,2025,Jan,1,Q1,885
+20241,Comoros,2025,Jan,1,Q1,0
+20242,"Congo, Dem. Rep.",2025,Jan,1,Q1,280
+20243,"Congo, Rep.",2025,Jan,1,Q1,20
+20244,Costa Rica,2025,Jan,1,Q1,20
+20245,Croatia,2025,Jan,1,Q1,0
+20246,Cuba,2025,Jan,1,Q1,80
+20247,Cyprus,2025,Jan,1,Q1,0
+20248,Czechia,2025,Jan,1,Q1,20
+20249,Denmark,2025,Jan,1,Q1,10
+20250,Djibouti,2025,Jan,1,Q1,15
+20251,Dominica,2025,Jan,1,Q1,5
+20252,Dominican Republic,2025,Jan,1,Q1,45
+20253,Ecuador,2025,Jan,1,Q1,55
+20254,"Egypt, Arab Rep.",2025,Jan,1,Q1,135
+20255,El Salvador,2025,Jan,1,Q1,65
+20256,Eritrea,2025,Jan,1,Q1,650
+20257,Ethiopia,2025,Jan,1,Q1,285
+20258,Fiji,2025,Jan,1,Q1,0
+20259,Finland,2025,Jan,1,Q1,10
+20260,France,2025,Jan,1,Q1,505
+20261,Gabon,2025,Jan,1,Q1,0
+20262,"Gambia, The",2025,Jan,1,Q1,5
+20263,Georgia,2025,Jan,1,Q1,15
+20264,Germany,2025,Jan,1,Q1,60
+20265,Ghana,2025,Jan,1,Q1,140
+20266,Greece,2025,Jan,1,Q1,25
+20267,Grenada,2025,Jan,1,Q1,5
+20268,Guatemala,2025,Jan,1,Q1,25
+20269,Guinea,2025,Jan,1,Q1,40
+20270,Guyana,2025,Jan,1,Q1,30
+20271,Haiti,2025,Jan,1,Q1,450
+20272,Honduras,2025,Jan,1,Q1,35
+20273,"Hong Kong SAR, China",2025,Jan,1,Q1,30
+20274,Hungary,2025,Jan,1,Q1,35
+20275,India,2025,Jan,1,Q1,10435
+20276,Indonesia,2025,Jan,1,Q1,40
+20277,"Iran, Islamic Rep.",2025,Jan,1,Q1,615
+20278,Iraq,2025,Jan,1,Q1,75
+20279,Ireland,2025,Jan,1,Q1,75
+20280,Israel,2025,Jan,1,Q1,75
+20281,Italy,2025,Jan,1,Q1,65
+20282,Cote d'Ivoire,2025,Jan,1,Q1,185
+20283,Jamaica,2025,Jan,1,Q1,335
+20284,Japan,2025,Jan,1,Q1,40
+20285,Jordan,2025,Jan,1,Q1,90
+20286,Kazakhstan,2025,Jan,1,Q1,30
+20287,Kenya,2025,Jan,1,Q1,85
+20288,"Korea, Rep.",2025,Jan,1,Q1,365
+20289,Kosovo,2025,Jan,1,Q1,20
+20290,Kuwait,2025,Jan,1,Q1,10
+20291,Kyrgyz Republic,2025,Jan,1,Q1,5
+20292,Lao PDR,2025,Jan,1,Q1,0
+20293,Latvia,2025,Jan,1,Q1,10
+20294,Lebanon,2025,Jan,1,Q1,165
+20295,Liberia,2025,Jan,1,Q1,0
+20296,Libya,2025,Jan,1,Q1,25
+20297,Lithuania,2025,Jan,1,Q1,5
+20298,North Macedonia,2025,Jan,1,Q1,5
+20299,Madagascar,2025,Jan,1,Q1,30
+20300,Malaysia,2025,Jan,1,Q1,40
+20301,Maldives,2025,Jan,1,Q1,0
+20302,Mali,2025,Jan,1,Q1,20
+20303,Mauritania,2025,Jan,1,Q1,0
+20304,Mauritius,2025,Jan,1,Q1,105
+20305,Mexico,2025,Jan,1,Q1,565
+20306,Moldova,2025,Jan,1,Q1,20
+20307,Mongolia,2025,Jan,1,Q1,0
+20308,Montenegro,2025,Jan,1,Q1,0
+20309,Morocco,2025,Jan,1,Q1,385
+20310,Myanmar,2025,Jan,1,Q1,15
+20311,Namibia,2025,Jan,1,Q1,5
+20312,Nepal,2025,Jan,1,Q1,155
+20313,Netherlands,2025,Jan,1,Q1,45
+20314,New Zealand,2025,Jan,1,Q1,30
+20315,Nicaragua,2025,Jan,1,Q1,25
+20316,Niger,2025,Jan,1,Q1,0
+20317,Nigeria,2025,Jan,1,Q1,1500
+20318,Norway,2025,Jan,1,Q1,0
+20319,Oman,2025,Jan,1,Q1,0
+20320,Canada,2025,Jan,1,Q1,0
+20321,Pakistan,2025,Jan,1,Q1,735
+20322,West Bank and Gaza,2025,Jan,1,Q1,30
+20323,Panama,2025,Jan,1,Q1,10
+20324,Paraguay,2025,Jan,1,Q1,0
+20325,Peru,2025,Jan,1,Q1,70
+20326,Philippines,2025,Jan,1,Q1,2560
+20327,Poland,2025,Jan,1,Q1,25
+20328,Portugal,2025,Jan,1,Q1,60
+20329,Romania,2025,Jan,1,Q1,25
+20330,Russian Federation,2025,Jan,1,Q1,95
+20331,Rwanda,2025,Jan,1,Q1,65
+20332,Saudi Arabia,2025,Jan,1,Q1,15
+20333,Senegal,2025,Jan,1,Q1,70
+20334,Serbia,2025,Jan,1,Q1,15
+20335,Sierra Leone,2025,Jan,1,Q1,5
+20336,Singapore,2025,Jan,1,Q1,15
+20337,Slovak Republic,2025,Jan,1,Q1,15
+20338,Slovenia,2025,Jan,1,Q1,0
+20339,Solomon Islands,2025,Jan,1,Q1,0
+20340,Somalia,2025,Jan,1,Q1,215
+20341,South Africa,2025,Jan,1,Q1,140
+20342,South Sudan,2025,Jan,1,Q1,30
+20343,Spain,2025,Jan,1,Q1,55
+20344,Sri Lanka,2025,Jan,1,Q1,285
+20345,Canada,2025,Jan,1,Q1,5
+20346,St. Lucia,2025,Jan,1,Q1,10
+20347,St. Vincent and the Grenadines,2025,Jan,1,Q1,15
+20348,Canada,2025,Jan,1,Q1,175
+20349,Sudan,2025,Jan,1,Q1,185
+20350,Suriname,2025,Jan,1,Q1,0
+20351,Somalia,2025,Jan,1,Q1,0
+20352,Sweden,2025,Jan,1,Q1,15
+20353,Switzerland,2025,Jan,1,Q1,10
+20354,Syrian Arab Republic,2025,Jan,1,Q1,215
+20355,China,2025,Jan,1,Q1,85
+20356,Tajikistan,2025,Jan,1,Q1,0
+20357,Tanzania,2025,Jan,1,Q1,25
+20358,Thailand,2025,Jan,1,Q1,35
+20359,Togo,2025,Jan,1,Q1,60
+20360,Trinidad and Tobago,2025,Jan,1,Q1,40
+20361,Tunisia,2025,Jan,1,Q1,200
+20362,Turkiye,2025,Jan,1,Q1,185
+20363,Uganda,2025,Jan,1,Q1,65
+20364,Ukraine,2025,Jan,1,Q1,940
+20365,United Arab Emirates,2025,Jan,1,Q1,0
+20366,United Kingdom,2025,Jan,1,Q1,285
+20367,United States,2025,Jan,1,Q1,620
+20368,Uruguay,2025,Jan,1,Q1,0
+20369,Uzbekistan,2025,Jan,1,Q1,20
+20370,"Venezuela, RB",2025,Jan,1,Q1,185
+20371,Viet Nam,2025,Jan,1,Q1,445
+20372,"Yemen, Rep.",2025,Jan,1,Q1,60
+20373,Zambia,2025,Jan,1,Q1,5
+20374,Zimbabwe,2025,Jan,1,Q1,55
+20375,Afghanistan,2025,Mar,3,Q1,630
+20376,Albania,2025,Mar,3,Q1,40
+20377,Algeria,2025,Mar,3,Q1,475
+20378,Andorra,2025,Mar,3,Q1,0
+20379,Angola,2025,Mar,3,Q1,10
+20380,Antigua and Barbuda,2025,Mar,3,Q1,5
+20381,Argentina,2025,Mar,3,Q1,45
+20382,Armenia,2025,Mar,3,Q1,20
+20383,Australia,2025,Mar,3,Q1,50
+20384,Austria,2025,Mar,3,Q1,0
+20385,Azerbaijan,2025,Mar,3,Q1,20
+20386,"Bahamas, The",2025,Mar,3,Q1,30
+20387,Bahrain,2025,Mar,3,Q1,0
+20388,Bangladesh,2025,Mar,3,Q1,255
+20389,Barbados,2025,Mar,3,Q1,20
+20390,Belarus,2025,Mar,3,Q1,45
+20391,Belgium,2025,Mar,3,Q1,35
+20392,Belize,2025,Mar,3,Q1,0
+20393,Benin,2025,Mar,3,Q1,60
+20394,Bhutan,2025,Mar,3,Q1,10
+20395,Bolivia,2025,Mar,3,Q1,10
+20396,Bosnia and Herzegovina,2025,Mar,3,Q1,0
+20397,Botswana,2025,Mar,3,Q1,0
+20398,Brazil,2025,Mar,3,Q1,515
+20399,Bulgaria,2025,Mar,3,Q1,0
+20400,Burkina Faso,2025,Mar,3,Q1,65
+20401,Burundi,2025,Mar,3,Q1,105
+20402,Cambodia,2025,Mar,3,Q1,15
+20403,Cameroon,2025,Mar,3,Q1,1800
+20404,Cabo Verde,2025,Mar,3,Q1,0
+20405,Central African Republic,2025,Mar,3,Q1,20
+20406,Chad,2025,Mar,3,Q1,40
+20407,Chile,2025,Mar,3,Q1,75
+20408,China,2025,Mar,3,Q1,1725
+20409,Colombia,2025,Mar,3,Q1,630
+20410,"Congo, Dem. Rep.",2025,Mar,3,Q1,405
+20411,"Congo, Rep.",2025,Mar,3,Q1,10
+20412,Costa Rica,2025,Mar,3,Q1,20
+20413,Croatia,2025,Mar,3,Q1,0
+20414,Cuba,2025,Mar,3,Q1,65
+20415,Cyprus,2025,Mar,3,Q1,0
+20416,Czechia,2025,Mar,3,Q1,25
+20417,Denmark,2025,Mar,3,Q1,0
+20418,Djibouti,2025,Mar,3,Q1,15
+20419,Dominica,2025,Mar,3,Q1,5
+20420,Dominican Republic,2025,Mar,3,Q1,60
+20421,Ecuador,2025,Mar,3,Q1,55
+20422,"Egypt, Arab Rep.",2025,Mar,3,Q1,155
+20423,El Salvador,2025,Mar,3,Q1,50
+20424,Equatorial Guinea,2025,Mar,3,Q1,0
+20425,Eritrea,2025,Mar,3,Q1,850
+20426,Estonia,2025,Mar,3,Q1,0
+20427,Ethiopia,2025,Mar,3,Q1,410
+20428,Fiji,2025,Mar,3,Q1,10
+20429,Finland,2025,Mar,3,Q1,10
+20430,France,2025,Mar,3,Q1,960
+20431,Gabon,2025,Mar,3,Q1,20
+20432,"Gambia, The",2025,Mar,3,Q1,10
+20433,Georgia,2025,Mar,3,Q1,15
+20434,Germany,2025,Mar,3,Q1,65
+20435,Ghana,2025,Mar,3,Q1,165
+20436,Greece,2025,Mar,3,Q1,10
+20437,Grenada,2025,Mar,3,Q1,0
+20438,Guatemala,2025,Mar,3,Q1,30
+20439,Guinea,2025,Mar,3,Q1,65
+20440,Guinea-Bissau,2025,Mar,3,Q1,0
+20441,Guyana,2025,Mar,3,Q1,30
+20442,Haiti,2025,Mar,3,Q1,410
+20443,Honduras,2025,Mar,3,Q1,45
+20444,"Hong Kong SAR, China",2025,Mar,3,Q1,20
+20445,Hungary,2025,Mar,3,Q1,15
+20446,Iceland,2025,Mar,3,Q1,0
+20447,India,2025,Mar,3,Q1,10290
+20448,Indonesia,2025,Mar,3,Q1,30
+20449,"Iran, Islamic Rep.",2025,Mar,3,Q1,600
+20450,Iraq,2025,Mar,3,Q1,85
+20451,Ireland,2025,Mar,3,Q1,95
+20452,Israel,2025,Mar,3,Q1,40
+20453,Italy,2025,Mar,3,Q1,70
+20454,Cote d'Ivoire,2025,Mar,3,Q1,265
+20455,Jamaica,2025,Mar,3,Q1,235
+20456,Japan,2025,Mar,3,Q1,55
+20457,Jordan,2025,Mar,3,Q1,95
+20458,Kazakhstan,2025,Mar,3,Q1,25
+20459,Kenya,2025,Mar,3,Q1,85
+20460,"Korea, Dem. People's Rep.",2025,Mar,3,Q1,0
+20461,"Korea, Rep.",2025,Mar,3,Q1,240
+20462,Kosovo,2025,Mar,3,Q1,10
+20463,Kuwait,2025,Mar,3,Q1,0
+20464,Kyrgyz Republic,2025,Mar,3,Q1,5
+20465,Lao PDR,2025,Mar,3,Q1,0
+20466,Latvia,2025,Mar,3,Q1,5
+20467,Lebanon,2025,Mar,3,Q1,210
+20468,Liberia,2025,Mar,3,Q1,10
+20469,Libya,2025,Mar,3,Q1,25
+20470,Lithuania,2025,Mar,3,Q1,10
+20471,North Macedonia,2025,Mar,3,Q1,0
+20472,Madagascar,2025,Mar,3,Q1,60
+20473,Malawi,2025,Mar,3,Q1,0
+20474,Malaysia,2025,Mar,3,Q1,30
+20475,Maldives,2025,Mar,3,Q1,0
+20476,Mali,2025,Mar,3,Q1,40
+20477,Mauritania,2025,Mar,3,Q1,10
+20478,Mauritius,2025,Mar,3,Q1,155
+20479,Mexico,2025,Mar,3,Q1,390
+20480,Moldova,2025,Mar,3,Q1,15
+20481,Mongolia,2025,Mar,3,Q1,5
+20482,Montenegro,2025,Mar,3,Q1,0
+20483,Morocco,2025,Mar,3,Q1,435
+20484,Mozambique,2025,Mar,3,Q1,0
+20485,Myanmar,2025,Mar,3,Q1,30
+20486,Namibia,2025,Mar,3,Q1,0
+20487,Nepal,2025,Mar,3,Q1,210
+20488,Netherlands,2025,Mar,3,Q1,25
+20489,New Zealand,2025,Mar,3,Q1,20
+20490,Nicaragua,2025,Mar,3,Q1,15
+20491,Niger,2025,Mar,3,Q1,10
+20492,Nigeria,2025,Mar,3,Q1,1510
+20493,Norway,2025,Mar,3,Q1,5
+20494,Oman,2025,Mar,3,Q1,0
+20495,Canada,2025,Mar,3,Q1,0
+20496,Pakistan,2025,Mar,3,Q1,870
+20497,West Bank and Gaza,2025,Mar,3,Q1,15
+20498,Panama,2025,Mar,3,Q1,0
+20499,Paraguay,2025,Mar,3,Q1,0
+20500,Peru,2025,Mar,3,Q1,75
+20501,Philippines,2025,Mar,3,Q1,2270
+20502,Poland,2025,Mar,3,Q1,20
+20503,Portugal,2025,Mar,3,Q1,50
+20504,Romania,2025,Mar,3,Q1,25
+20505,Russian Federation,2025,Mar,3,Q1,100
+20506,Rwanda,2025,Mar,3,Q1,75
+20507,Saudi Arabia,2025,Mar,3,Q1,10
+20508,Senegal,2025,Mar,3,Q1,80
+20509,Serbia,2025,Mar,3,Q1,15
+20510,Seychelles,2025,Mar,3,Q1,0
+20511,Sierra Leone,2025,Mar,3,Q1,10
+20512,Singapore,2025,Mar,3,Q1,15
+20513,Slovak Republic,2025,Mar,3,Q1,5
+20514,Slovenia,2025,Mar,3,Q1,0
+20515,Somalia,2025,Mar,3,Q1,500
+20516,South Africa,2025,Mar,3,Q1,110
+20517,South Sudan,2025,Mar,3,Q1,70
+20518,Spain,2025,Mar,3,Q1,35
+20519,Sri Lanka,2025,Mar,3,Q1,355
+20520,Canada,2025,Mar,3,Q1,10
+20521,St. Lucia,2025,Mar,3,Q1,10
+20522,St. Vincent and the Grenadines,2025,Mar,3,Q1,0
+20523,Canada,2025,Mar,3,Q1,130
+20524,Sudan,2025,Mar,3,Q1,355
+20525,Sweden,2025,Mar,3,Q1,10
+20526,Switzerland,2025,Mar,3,Q1,10
+20527,Syrian Arab Republic,2025,Mar,3,Q1,330
+20528,China,2025,Mar,3,Q1,75
+20529,Tanzania,2025,Mar,3,Q1,15
+20530,Thailand,2025,Mar,3,Q1,40
+20531,Togo,2025,Mar,3,Q1,90
+20532,Trinidad and Tobago,2025,Mar,3,Q1,35
+20533,Tunisia,2025,Mar,3,Q1,385
+20534,Turkiye,2025,Mar,3,Q1,125
+20535,Turkmenistan,2025,Mar,3,Q1,0
+20536,Uganda,2025,Mar,3,Q1,55
+20537,Ukraine,2025,Mar,3,Q1,650
+20538,United Arab Emirates,2025,Mar,3,Q1,0
+20539,United Kingdom,2025,Mar,3,Q1,300
+20540,United States,2025,Mar,3,Q1,705
+20541,Uruguay,2025,Mar,3,Q1,0
+20542,Uzbekistan,2025,Mar,3,Q1,20
+20543,Vanuatu,2025,Mar,3,Q1,0
+20544,"Venezuela, RB",2025,Mar,3,Q1,120
+20545,Viet Nam,2025,Mar,3,Q1,390
+20546,"Yemen, Rep.",2025,Mar,3,Q1,25
+20547,Zambia,2025,Mar,3,Q1,5
+20548,Zimbabwe,2025,Mar,3,Q1,45

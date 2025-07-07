@@ -1,0 +1,211 @@
+,country,free,partly free,not free
+418,Abkhazia,False,True,False
+419,Afghanistan,False,False,True
+420,Albania,False,True,False
+421,Algeria,False,False,True
+422,Andorra,True,False,False
+423,Angola,False,False,True
+424,Antigua and Barbuda,True,False,False
+425,Argentina,True,False,False
+426,Armenia,False,True,False
+427,Australia,True,False,False
+428,Austria,True,False,False
+429,Azerbaijan,False,False,True
+430,"Bahamas, The",True,False,False
+431,Bahrain,False,False,True
+432,Bangladesh,False,True,False
+433,Barbados,True,False,False
+434,Belarus,False,False,True
+435,Belgium,True,False,False
+436,Belize,True,False,False
+437,Benin,False,True,False
+438,Bhutan,False,True,False
+439,Bolivia,False,True,False
+440,Bosnia and Herzegovina,False,True,False
+441,Botswana,True,False,False
+442,Brazil,True,False,False
+443,Brunei Darussalam,False,False,True
+444,Bulgaria,True,False,False
+445,Burkina Faso,False,False,True
+446,Burundi,False,False,True
+447,Cabo Verde,True,False,False
+448,Cambodia,False,False,True
+449,Cameroon,False,False,True
+450,Canada,True,False,False
+451,Central African Republic,False,False,True
+452,Chad,False,False,True
+453,Chile,True,False,False
+454,China,False,False,True
+455,Colombia,True,False,False
+456,Comoros,False,True,False
+457,"Congo, Rep.",False,False,True
+458,"Congo, Dem. Rep.",False,False,True
+459,Costa Rica,True,False,False
+460,Cote d'Ivoire,False,True,False
+461,Crimea,False,False,True
+462,Croatia,True,False,False
+463,Cuba,False,False,True
+464,Cyprus,True,False,False
+465,Czechia,True,False,False
+466,Denmark,True,False,False
+467,Djibouti,False,False,True
+468,Dominica,True,False,False
+469,Dominican Republic,False,True,False
+470,Eastern Donbas,False,False,True
+471,Ecuador,True,False,False
+472,"Egypt, Arab Rep.",False,False,True
+473,El Salvador,False,True,False
+474,Equatorial Guinea,False,False,True
+475,Eritrea,False,False,True
+476,Estonia,True,False,False
+477,Eswatini,False,False,True
+478,Ethiopia,False,False,True
+479,Fiji,False,True,False
+480,Finland,True,False,False
+481,France,True,False,False
+482,Gabon,False,False,True
+483,West Bank and Gaza,False,False,True
+484,Georgia,False,True,False
+485,Germany,True,False,False
+486,Ghana,True,False,False
+487,Greece,True,False,False
+488,Grenada,True,False,False
+489,Guatemala,False,True,False
+490,Guinea,False,False,True
+491,Guinea-Bissau,False,True,False
+492,Guyana,True,False,False
+493,Haiti,False,False,True
+494,Honduras,False,True,False
+495,Hong Kong,False,True,False
+496,Hungary,False,True,False
+497,Iceland,True,False,False
+498,India,False,True,False
+499,Indian Kashmir,False,False,True
+500,Indonesia,False,True,False
+501,"Iran, Islamic Rep.",False,False,True
+502,Iraq,False,False,True
+503,Ireland,True,False,False
+504,Israel,True,False,False
+505,Italy,True,False,False
+506,Jamaica,True,False,False
+507,Japan,True,False,False
+508,Jordan,False,False,True
+509,Kazakhstan,False,False,True
+510,Kenya,False,True,False
+511,Kiribati,True,False,False
+512,Kosovo,False,True,False
+513,Kuwait,False,True,False
+514,Kyrgyz Republic,False,False,True
+515,Lao PDR,False,False,True
+516,Latvia,True,False,False
+517,Lebanon,False,True,False
+518,Lesotho,True,False,False
+519,Liberia,False,True,False
+520,Libya,False,False,True
+521,Liechtenstein,True,False,False
+522,Lithuania,True,False,False
+523,Luxembourg,True,False,False
+524,Madagascar,False,True,False
+525,Malawi,False,True,False
+526,Malaysia,False,True,False
+527,Maldives,False,True,False
+528,Mali,False,False,True
+529,Malta,True,False,False
+530,Marshall Islands,True,False,False
+531,Mauritania,False,True,False
+532,Mauritius,True,False,False
+533,Mexico,False,True,False
+534,Micronesia,True,False,False
+535,Moldova,False,True,False
+536,Monaco,True,False,False
+537,Mongolia,True,False,False
+538,Montenegro,False,True,False
+539,Morocco,False,True,False
+540,Mozambique,False,True,False
+541,Myanmar,False,False,True
+542,Nagorno-Karabakh,False,True,False
+543,Namibia,True,False,False
+544,Nauru,True,False,False
+545,Nepal,False,True,False
+546,Netherlands,True,False,False
+547,New Zealand,True,False,False
+548,Nicaragua,False,False,True
+549,Niger,False,True,False
+550,Nigeria,False,True,False
+551,"Korea, Dem. People's Rep.",False,False,True
+552,North Macedonia,False,True,False
+553,Northern Cyprus,True,False,False
+554,Norway,True,False,False
+555,Oman,False,False,True
+556,Pakistan,False,True,False
+557,Pakistani Kashmir,False,False,True
+558,Palau,True,False,False
+559,Panama,True,False,False
+560,Papua New Guinea,False,True,False
+561,Paraguay,False,True,False
+562,Peru,False,True,False
+563,Philippines,False,True,False
+564,Poland,True,False,False
+565,Portugal,True,False,False
+566,Qatar,False,False,True
+567,Romania,True,False,False
+568,Russian Federation,False,False,True
+569,Rwanda,False,False,True
+570,Samoa,True,False,False
+571,San Marino,True,False,False
+572,Sao Tome and Principe,True,False,False
+573,Saudi Arabia,False,False,True
+574,Senegal,False,True,False
+575,Serbia,False,True,False
+576,Seychelles,True,False,False
+577,Sierra Leone,False,True,False
+578,Singapore,False,True,False
+579,Slovak Republic,True,False,False
+580,Slovenia,True,False,False
+581,Solomon Islands,True,False,False
+582,Somalia,False,False,True
+583,Somaliland,False,True,False
+584,South Africa,True,False,False
+585,"Korea, Rep.",True,False,False
+586,South Ossetia,False,False,True
+587,South Sudan,False,False,True
+588,Spain,True,False,False
+589,Sri Lanka,False,True,False
+590,St. Kitts and Nevis,True,False,False
+591,St. Lucia,True,False,False
+592,St. Vincent and the Grenadines,True,False,False
+593,Sudan,False,False,True
+594,Suriname,True,False,False
+595,Sweden,True,False,False
+596,Switzerland,True,False,False
+597,Syrian Arab Republic,False,False,True
+598,Taiwan,True,False,False
+599,Tajikistan,False,False,True
+600,Tanzania,False,True,False
+601,Thailand,False,False,True
+602,"Gambia, The",False,True,False
+603,Tibet,False,False,True
+604,Timor-Leste,True,False,False
+605,Togo,False,True,False
+606,Tonga,True,False,False
+607,Transnistria,False,False,True
+608,Trinidad and Tobago,True,False,False
+609,Tunisia,False,True,False
+610,Turkiye,False,False,True
+611,Turkmenistan,False,False,True
+612,Tuvalu,True,False,False
+613,Uganda,False,False,True
+614,Ukraine,False,True,False
+615,United Arab Emirates,False,False,True
+616,United Kingdom,True,False,False
+617,United States,True,False,False
+618,Uruguay,True,False,False
+619,Uzbekistan,False,False,True
+620,Vanuatu,True,False,False
+621,"Venezuela, RB",False,False,True
+622,Viet Nam,False,False,True
+623,West Bank,False,False,True
+624,Western Sahara,False,False,True
+625,"Yemen, Rep.",False,False,True
+626,Zambia,False,True,False
+627,Zimbabwe,False,False,True
