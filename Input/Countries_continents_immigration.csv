@@ -1,218 +1,218 @@
 iso3Code,country,continent,sub-region,continent (DZ compare),sub-region (DZ compare),UMA,COMESA,CEA,CEEAC,CEDEAO,SADC,OCDE,UE,Euro,algeria
+ABW,Aruba,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 AFG,Afghanistan,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
-ALB,Albania,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-DZA,Algeria,Africa,North Africa,Algeria,Algeria,yes,no,no,no,no,no,no,no,no,yes
-ASM,American Samoa,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-AND,Andorra,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
 AGO,Angola,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,yes,no,no,no,no
-ATG,Antigua and Barbuda,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-ARG,Argentina,South America,,South America,,no,no,no,no,no,no,no,no,no,no
+ALB,Albania,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+AND,Andorra,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+ARE,United Arab Emirates,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+ARG,Argentina,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
 ARM,Armenia,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-ABW,Aruba,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-AUS,Australia,Oceania,,Oceania,,no,no,no,no,no,no,yes,no,no,no
+ASM,American Samoa,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+ATG,Antigua and Barbuda,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+AUS,Australia,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,yes,no,no,no
 AUT,Austria,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
 AZE,Azerbaijan,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-BHS,"Bahamas, The",Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-BHR,Bahrain,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-BGD,Bangladesh,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
-BRB,Barbados,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-BLR,Belarus,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
-BEL,Belgium,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
-BLZ,Belize,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-BEN,Benin,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-BMU,Bermuda,Latin America & Caribbean,,Latin America & Caribbean,,no,no,no,no,no,no,no,no,no,no
-BTN,Bhutan,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
-BOL,Bolivia,South America,,South America,,no,no,no,no,no,no,no,no,no,no
-BIH,Bosnia and Herzegovina,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-BWA,Botswana,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
-BRA,Brazil,South America,,South America,,no,no,no,no,no,no,no,no,no,no
-VGB,British Virgin Islands,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-BRN,Brunei Darussalam,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
-BGR,Bulgaria,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,yes,no,no
-BFA,Burkina Faso,Africa,Western Africa,Africa,Western Africa,no,no,no,no,no,no,no,no,no,no
 BDI,Burundi,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-CPV,Cabo Verde,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-KHM,Cambodia,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
-CMR,Cameroon,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
-CAN,Canada,North America,,North America,,no,no,no,no,no,no,yes,no,no,no
-CYM,Cayman Islands,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+BEL,Belgium,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
+BEN,Benin,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
+BFA,Burkina Faso,Africa,Western Africa,Africa,Western Africa,no,no,no,no,no,no,no,no,no,no
+BGD,Bangladesh,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
+BGR,Bulgaria,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,yes,no,no
+BHR,Bahrain,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+BHS,"Bahamas, The",Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+BLR,Belarus,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
+BLZ,Belize,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+BMU,Bermuda,Latin America & Caribbean,Latin America & Caribbean,Latin America & Caribbean,Latin America & Caribbean,no,no,no,no,no,no,no,no,no,no
+BOL,Bolivia,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
+BRA,Brazil,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
+BRB,Barbados,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+BRN,Brunei Darussalam,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+BTN,Bhutan,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
+BWA,Botswana,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
 CAF,Central African Republic,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
-TCD,Chad,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
+CAN,Canada,North America,North America,North America,North America,no,no,no,no,no,no,yes,no,no,no
+CHE,Switzerland,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,no,no,no
 CHI,Channel Islands,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
-CHL,Chile,South America,,South America,,no,no,no,no,no,no,yes,no,no,no
+CHL,Chile,South America,South America,South America,South America,no,no,no,no,no,no,yes,no,no,no
 CHN,China,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
-COL,Colombia,South America,,South America,,no,no,no,no,no,no,yes,no,no,no
-COM,Comoros,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
+CIV,Cote d'Ivoire,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
+CMR,Cameroon,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
 COD,"Congo, Dem. Rep.",Africa,Central Africa,Africa,Central Africa,no,yes,no,yes,no,yes,no,no,no,no
 COG,"Congo, Rep.",Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
-CRI,Costa Rica,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,yes,no,no,no
-CIV,Cote d'Ivoire,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-HRV,Croatia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,yes,yes,no
-CUB,Cuba,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-CUW,Curacao,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+COL,Colombia,South America,South America,South America,South America,no,no,no,no,no,no,yes,no,no,no
+COM,Comoros,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
+CPV,Cabo Verde,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
+CRI,Costa Rica,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,yes,no,no,no
+CUB,Cuba,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+CUW,Curacao,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+CYM,Cayman Islands,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 CYP,Cyprus,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,yes,yes,no
 CZE,Czechia,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,yes,yes,no,no
-DNK,Denmark,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,no,no
-DJI,Djibouti,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-DMA,Dominica,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-DOM,Dominican Republic,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-ECU,Ecuador,South America,,South America,,no,no,no,no,no,no,no,no,no,no
-EGY,"Egypt, Arab Rep.",Africa,North Africa,Africa,North Africa,no,no,no,no,no,no,no,no,no,no
-SLV,El Salvador,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-GNQ,Equatorial Guinea,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
-ERI,Eritrea,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-EST,Estonia,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
-SWZ,Eswatini,Africa,Austral Africa,Africa,Austral Africa,no,yes,no,no,no,yes,no,no,no,no
-ETH,Ethiopia,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-FRO,Faroe Islands,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
-FJI,Fiji,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-FIN,Finland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
-FRA,France,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
-PYF,French Polynesia,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-GAB,Gabon,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
-GMB,"Gambia, The",Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-GEO,Georgia,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
 DEU,Germany,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
+DJI,Djibouti,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
+DMA,Dominica,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+DNK,Denmark,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,no,no
+DOM,Dominican Republic,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+DZA,Algeria,Africa,North Africa,Algeria,Algeria,yes,no,no,no,no,no,no,no,no,yes
+ECU,Ecuador,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
+EGY,"Egypt, Arab Rep.",Africa,North Africa,Africa,North Africa,no,no,no,no,no,no,no,no,no,no
+ERI,Eritrea,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
+ESP,Spain,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
+EST,Estonia,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
+ETH,Ethiopia,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
+FIN,Finland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
+FJI,Fiji,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+FRA,France,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
+FRO,Faroe Islands,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
+FSM,"Micronesia, Fed. Sts.",Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+GAB,Gabon,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
+GBR,United Kingdom,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,no,no,no
+GEO,Georgia,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
 GHA,Ghana,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
 GIB,Gibraltar,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-GRC,Greece,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
-GRL,Greenland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
-GRD,Grenada,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-GUM,Guam,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
-GTM,Guatemala,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
 GIN,Guinea,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
+GMB,"Gambia, The",Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
 GNB,Guinea-Bissau,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-GUY,Guyana,South America,,South America,,no,no,no,no,no,no,no,no,no,no
-HTI,Haiti,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-HND,Honduras,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+GNQ,Equatorial Guinea,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
+GRC,Greece,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
+GRD,Grenada,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+GRL,Greenland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
+GTM,Guatemala,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+GUM,Guam,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
+GUY,Guyana,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
 HKG,"Hong Kong SAR, China",Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
+HND,Honduras,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+HRV,Croatia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,yes,yes,no
+HTI,Haiti,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 HUN,Hungary,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,yes,yes,no,no
-ISL,Iceland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,no,no,no
-IND,India,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
 IDN,Indonesia,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+IMN,Isle of Man,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
+IND,India,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
+IRL,Ireland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
 IRN,"Iran, Islamic Rep.",Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
 IRQ,Iraq,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-IRL,Ireland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
-IMN,Isle of Man,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,no,no,no,no
+ISL,Iceland,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,no,no,no
 ISR,Israel,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,yes,no,no,no
 ITA,Italy,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
-JAM,Jamaica,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-JPN,Japan,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,yes,no,no,no
+JAM,Jamaica,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 JOR,Jordan,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+JPN,Japan,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,yes,no,no,no
 KAZ,Kazakhstan,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
 KEN,Kenya,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-KIR,Kiribati,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-PRK,"Korea, Dem. People's Rep.",Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
-KOR,"Korea, Rep.",Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,yes,no,no,no
-XKX,Kosovo,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-KWT,Kuwait,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
 KGZ,Kyrgyz Republic,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
+KHM,Cambodia,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+KIR,Kiribati,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+KNA,St. Kitts and Nevis,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+KOR,"Korea, Rep.",Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,yes,no,no,no
+KWT,Kuwait,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
 LAO,Lao PDR,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
-LVA,Latvia,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
 LBN,Lebanon,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-LSO,Lesotho,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
 LBR,Liberia,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
 LBY,Libya,Africa,North Africa,Africa,North Africa,yes,no,no,no,no,no,no,no,no,no
+LCA,St. Lucia,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 LIE,Liechtenstein,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,no,no,no,no
+LKA,Sri Lanka,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
+LSO,Lesotho,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
 LTU,Lithuania,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
 LUX,Luxembourg,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
+LVA,Latvia,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,yes,no
 MAC,"Macao SAR, China",Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
+MAF,St. Martin (French part),Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+MAR,Morocco,Africa,North Africa,Africa,North Africa,yes,no,no,no,no,no,no,no,no,no
+MCO,Monaco,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+MDA,Moldova,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
 MDG,Madagascar,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
-MWI,Malawi,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
-MYS,Malaysia,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
 MDV,Maldives,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
+MEX,Mexico,North America,North America,North America,North America,no,no,no,no,no,no,yes,no,no,no
+MHL,Marshall Islands,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+MKD,North Macedonia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
 MLI,Mali,Africa,Western Africa,Africa,Western Africa,no,no,no,no,no,no,no,no,no,no
 MLT,Malta,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,yes,yes,no
-MHL,Marshall Islands,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
+MMR,Myanmar,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+MNE,Montenegro,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+MNG,Mongolia,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
+MNP,Northern Mariana Islands,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+MOZ,Mozambique,Africa,Eastern Africa,Africa,Eastern Africa,no,no,no,no,no,yes,no,no,no,no
 MRT,Mauritania,Africa,Western Africa,Africa,Western Africa,yes,no,no,no,no,no,no,no,no,no
 MUS,Mauritius,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
-MEX,Mexico,North America,,North America,,no,no,no,no,no,no,yes,no,no,no
-FSM,"Micronesia, Fed. Sts.",Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-MDA,Moldova,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
-MCO,Monaco,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-MNG,Mongolia,Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
-MNE,Montenegro,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-MAR,Morocco,Africa,North Africa,Africa,North Africa,yes,no,no,no,no,no,no,no,no,no
-MOZ,Mozambique,Africa,Eastern Africa,Africa,Eastern Africa,no,no,no,no,no,yes,no,no,no,no
-MMR,Myanmar,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+MWI,Malawi,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
+MYS,Malaysia,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
 NAM,Namibia,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
-NRU,Nauru,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-NPL,Nepal,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
-NLD,Netherlands,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
-NCL,New Caledonia,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-NZL,New Zealand,Oceania,,Oceania,,no,no,no,no,no,no,yes,no,no,no
-NIC,Nicaragua,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+NCL,New Caledonia,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
 NER,Niger,Africa,Western Africa,Africa,Western Africa,no,no,no,no,no,no,no,no,no,no
 NGA,Nigeria,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-MKD,North Macedonia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-MNP,Northern Mariana Islands,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
+NIC,Nicaragua,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+NLD,Netherlands,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,yes,yes,no
 NOR,Norway,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,no,no,no
+NPL,Nepal,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
+NRU,Nauru,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+NZL,New Zealand,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,yes,no,no,no
 OMN,Oman,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
 PAK,Pakistan,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
-PLW,Palau,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-PAN,Panama,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-PNG,Papua New Guinea,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-PRY,Paraguay,South America,,South America,,no,no,no,no,no,no,no,no,no,no
-PER,Peru,South America,,South America,,no,no,no,no,no,no,no,no,no,no
+PAN,Panama,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+PER,Peru,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
 PHL,Philippines,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+PLW,Palau,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+PNG,Papua New Guinea,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
 POL,Poland,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,yes,yes,no,no
+PRI,Puerto Rico,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+PRK,"Korea, Dem. People's Rep.",Asia,Eastern Asia,Asia,Eastern Asia,no,no,no,no,no,no,no,no,no,no
 PRT,Portugal,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
-PRI,Puerto Rico,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+PRY,Paraguay,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
+PSE,West Bank and Gaza,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+PYF,French Polynesia,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
 QAT,Qatar,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
 ROU,Romania,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,yes,no,no
 RUS,Russian Federation,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
 RWA,Rwanda,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-WSM,Samoa,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-SMR,San Marino,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-STP,Sao Tome and Principe,Africa,Central Africa,Africa,Central Africa,no,no,no,no,no,no,no,no,no,no
 SAU,Saudi Arabia,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+SDN,Sudan,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
 SEN,Senegal,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-SRB,Serbia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
-SYC,Seychelles,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
-SLE,Sierra Leone,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
 SGP,Singapore,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
-SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+SLB,Solomon Islands,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+SLE,Sierra Leone,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
+SLV,El Salvador,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+SMR,San Marino,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+SOM,Somalia,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
+SRB,Serbia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
+SSD,South Sudan,Africa,Eastern Africa,Africa,Eastern Africa,no,no,no,no,no,no,no,no,no,no
+STP,Sao Tome and Principe,Africa,Central Africa,Africa,Central Africa,no,no,no,no,no,no,no,no,no,no
+SUR,Suriname,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
 SVK,Slovak Republic,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,yes,yes,yes,no
 SVN,Slovenia,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
-SLB,Solomon Islands,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-SOM,Somalia,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-ZAF,South Africa,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
-SSD,South Sudan,Africa,Eastern Africa,Africa,Eastern Africa,no,no,no,no,no,no,no,no,no,no
-ESP,Spain,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,yes,yes,no
-LKA,Sri Lanka,Asia,Southern Asia,Asia,Southern Asia,no,no,no,no,no,no,no,no,no,no
-KNA,St. Kitts and Nevis,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-LCA,St. Lucia,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-MAF,St. Martin (French part),Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-SDN,Sudan,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
-SUR,Suriname,South America,,South America,,no,no,no,no,no,no,no,no,no,no
 SWE,Sweden,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,yes,no,no
-CHE,Switzerland,Europe,Western Europe,Europe,Western Europe,no,no,no,no,no,no,yes,no,no,no
+SWZ,Eswatini,Africa,Austral Africa,Africa,Austral Africa,no,yes,no,no,no,yes,no,no,no,no
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+SYC,Seychelles,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
 SYR,Syrian Arab Republic,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-TJK,Tajikistan,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
-TZA,Tanzania,Africa,Eastern Africa,Africa,Eastern Africa,no,no,no,no,no,yes,no,no,no,no
-THA,Thailand,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
-TLS,Timor-Leste,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+TCA,Turks and Caicos Islands,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+TCD,Chad,Africa,Central Africa,Africa,Central Africa,no,no,no,yes,no,no,no,no,no,no
 TGO,Togo,Africa,Western Africa,Africa,Western Africa,no,no,no,no,yes,no,no,no,no,no
-TON,Tonga,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-TTO,Trinidad and Tobago,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
+THA,Thailand,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+TJK,Tajikistan,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
+TKM,Turkmenistan,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
+TLS,Timor-Leste,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
+TON,Tonga,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+TTO,Trinidad and Tobago,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 TUN,Tunisia,Africa,North Africa,Africa,North Africa,yes,no,no,no,no,no,no,no,no,no
 TUR,Turkiye,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,yes,no,no,no
-TKM,Turkmenistan,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
-TCA,Turks and Caicos Islands,Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-TUV,Tuvalu,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
+TUV,Tuvalu,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+TZA,Tanzania,Africa,Eastern Africa,Africa,Eastern Africa,no,no,no,no,no,yes,no,no,no,no
 UGA,Uganda,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,no,no,no,no,no
 UKR,Ukraine,Europe,Eastern Europe,Europe,Eastern Europe,no,no,no,no,no,no,no,no,no,no
-ARE,United Arab Emirates,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
-GBR,United Kingdom,Europe,Northern Europe,Europe,Northern Europe,no,no,no,no,no,no,yes,no,no,no
-USA,United States,North America,,North America,,no,no,no,no,no,no,yes,no,no,no
-URY,Uruguay,South America,,South America,,no,no,no,no,no,no,no,no,no,no
+URY,Uruguay,South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
+USA,United States,North America,North America,North America,North America,no,no,no,no,no,no,yes,no,no,no
 UZB,Uzbekistan,Asia,Central Asia,Asia,Central Asia,no,no,no,no,no,no,no,no,no,no
-VUT,Vanuatu,Oceania,,Oceania,,no,no,no,no,no,no,no,no,no,no
-VEN,"Venezuela, RB",South America,,South America,,no,no,no,no,no,no,no,no,no,no
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+VEN,"Venezuela, RB",South America,South America,South America,South America,no,no,no,no,no,no,no,no,no,no
+VGB,British Virgin Islands,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
+VIR,Virgin Islands (U.S.),Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,Latin America & Caribbean ,no,no,no,no,no,no,no,no,no,no
 VNM,Viet Nam,Asia,South-Eastern Asia,Asia,South-Eastern Asia,no,no,no,no,no,no,no,no,no,no
-VIR,Virgin Islands (U.S.),Latin America & Caribbean ,,Latin America & Caribbean ,,no,no,no,no,no,no,no,no,no,no
-PSE,West Bank and Gaza,Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+VUT,Vanuatu,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+WSM,Samoa,Oceania,Oceania,Oceania,Oceania,no,no,no,no,no,no,no,no,no,no
+XKX,Kosovo,Europe,Southern Europe,Europe,Southern Europe,no,no,no,no,no,no,no,no,no,no
 YEM,"Yemen, Rep.",Asia,Western Asia,Asia,Western Asia,no,no,no,no,no,no,no,no,no,no
+ZAF,South Africa,Africa,Austral Africa,Africa,Austral Africa,no,no,no,no,no,yes,no,no,no,no
 ZMB,Zambia,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
 ZWE,Zimbabwe,Africa,Eastern Africa,Africa,Eastern Africa,no,yes,no,no,no,yes,no,no,no,no
